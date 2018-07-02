@@ -1,21 +1,26 @@
 {
     "name": "bootstrap3-theme-connect",
     "description": "The bootstrap3 theme.",
+    "keywords": [
+        "connect",
+        "bootstrap-theme"
+    ],
     "authors": [
         "beck"
     ],
-    "main": [
-        "dist/css/bootstrap.css",
-        "dist/js/bootstrap.js"
-    ],
-    "license": "MIT",
     "homepage": "https://github.com/bian17888/bootstrap3-theme-connect",
+    "moduleType": "globals",
+    "license": "MIT",
     "ignore": [
         "**/.*",
         "node_modules",
         "bower_components",
         "test",
         "tests"
+    ],
+    "main": [
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js"
     ],
     "dependencies":
     {
