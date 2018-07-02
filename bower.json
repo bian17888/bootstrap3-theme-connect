@@ -2,8 +2,10 @@
     "name": "bootstrap3-theme-connect",
     "description": "The bootstrap3 theme.",
     "keywords": [
+        "aliyun",
         "connect",
-        "bootstrap-theme"
+        "bootstrap",
+        "bootstrap3-theme"
     ],
     "authors": [
         "beck"
