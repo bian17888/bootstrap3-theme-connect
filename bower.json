@@ -1,0 +1,24 @@
+{
+    "name": "bootstrap3-theme-connect",
+    "description": "The bootstrap3 theme.",
+    "authors": [
+        "beck"
+    ],
+    "main": [
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies":
+    {
+        "jquery": "1.9.1"
+    }
+}
